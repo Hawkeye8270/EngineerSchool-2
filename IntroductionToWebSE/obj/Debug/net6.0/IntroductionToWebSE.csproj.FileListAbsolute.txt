@@ -1,0 +1,15 @@
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.AssemblyInfoInputs.cache
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.AssemblyInfo.cs
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.csproj.CoreCompileInputs.cache
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.sourcelink.json
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\bin\Debug\net6.0\IntroductionToWebSE.exe
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\bin\Debug\net6.0\IntroductionToWebSE.deps.json
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\bin\Debug\net6.0\IntroductionToWebSE.runtimeconfig.json
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\bin\Debug\net6.0\IntroductionToWebSE.dll
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\bin\Debug\net6.0\IntroductionToWebSE.pdb
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.dll
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\refint\IntroductionToWebSE.dll
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.pdb
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\IntroductionToWebSE.genruntimeconfig.cache
+D:\Temp\EngineerSchool\2\IntroductionToWebSE\obj\Debug\net6.0\ref\IntroductionToWebSE.dll

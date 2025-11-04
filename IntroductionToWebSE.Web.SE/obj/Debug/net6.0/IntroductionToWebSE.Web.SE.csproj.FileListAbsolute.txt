@@ -1,0 +1,6 @@
+D:\Temp\EngineerSchool\2\IntroductionToWebSE.Web.SE\obj\Debug\net6.0\IntroductionToWebSE.Web.SE.csproj.AssemblyReference.cache
+D:\Temp\EngineerSchool\2\IntroductionToWebSE.Web.SE\obj\Debug\net6.0\IntroductionToWebSE.Web.SE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\EngineerSchool\2\IntroductionToWebSE.Web.SE\obj\Debug\net6.0\IntroductionToWebSE.Web.SE.AssemblyInfoInputs.cache
+D:\Temp\EngineerSchool\2\IntroductionToWebSE.Web.SE\obj\Debug\net6.0\IntroductionToWebSE.Web.SE.AssemblyInfo.cs
+D:\Temp\EngineerSchool\2\IntroductionToWebSE.Web.SE\obj\Debug\net6.0\IntroductionToWebSE.Web.SE.csproj.CoreCompileInputs.cache
+D:\Temp\EngineerSchool\2\IntroductionToWebSE.Web.SE\obj\Debug\net6.0\IntroductionToWebSE.Web.SE.sourcelink.json
