@@ -12,5 +12,6 @@ namespace IntroductionToWebSE.Web.SE.Services {
 
 	public interface IOfficeMemoService {
 		OfficeMemoNameModel GetOfficeMemoName(SessionContext sessionContext, Guid cardId);
-	}
+        void InitOfficeMemo(SessionContext sessionContext, Guid cardId);
+    }
 }

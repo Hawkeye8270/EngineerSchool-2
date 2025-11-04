@@ -34,3 +34,4 @@ D:\Temp\EngineerSchool\3\IntroductionToWebSE\IntroductionToWebSE.Web.Front\obj\D
 D:\Temp\EngineerSchool\3\IntroductionToWebSE\IntroductionToWebSE.Web.Front\obj\Debug\net8.0\refint\IntroductionToWebSE.Web.Front.dll
 D:\Temp\EngineerSchool\3\IntroductionToWebSE\IntroductionToWebSE.Web.Front\obj\Debug\net8.0\IntroductionToWebSE.Web.Front.pdb
 D:\Temp\EngineerSchool\3\IntroductionToWebSE\IntroductionToWebSE.Web.Front\obj\Debug\net8.0\ref\IntroductionToWebSE.Web.Front.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE\IntroductionToWebSE.Web.Front\obj\Debug\net8.0\IntroductionToWebSE.Web.Front.sourcelink.json

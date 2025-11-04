@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroductionToWebSE.Web.Front")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e24668bbb4ba4c753544c8750bc704ef1e627567")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroductionToWebSE.Web.Front")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroductionToWebSE.Web.Front")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

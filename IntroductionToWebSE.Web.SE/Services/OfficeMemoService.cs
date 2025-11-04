@@ -17,11 +17,19 @@ public class OfficeMemoService : IOfficeMemoService {
 			var card = sessionContext.ObjectContext.GetObject<Document>(cardId) 
             ?? throw new ArgumentException("Invalid card id", nameof(cardId));
 
-        var content = card.MainInfo[CardDocument.MainInfo.Content] as string;
-			return new OfficeMemoNameModel { Content = content };
+            //var content = card.MainInfo[CardDocument.MainInfo.Content] as string;
+            var content = card.MainInfo[CardDocument.MainInfo.Name] as string;
+            return new OfficeMemoNameModel { Content = content };
   
 	}
-}
+
+        public void InitOfficeMemo(SessionContext sessionContext, Guid cardId)
+        {
+            var card = sessionContext.ObjectContext.GetObject<Document>(cardId);
+            card.MainInfo[CardDocument.MainInfo.Content] = "This content is filled in card by life cycle";
+            sessionContext.ObjectContext.SaveObject(card); 
+        }
+    }
 }
 
 //return new OfficeMemoNameModel { Content = content };

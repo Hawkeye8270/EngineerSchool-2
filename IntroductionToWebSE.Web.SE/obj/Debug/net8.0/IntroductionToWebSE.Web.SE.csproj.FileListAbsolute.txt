@@ -23,3 +23,15 @@ D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\obj\Debug\net8.0\Introductio
 D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\obj\Debug\net8.0\refint\IntroductionToWebSE.Web.SE.dll
 D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\obj\Debug\net8.0\IntroductionToWebSE.Web.SE.pdb
 D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\obj\Debug\net8.0\ref\IntroductionToWebSE.Web.SE.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\obj\Debug\net8.0\IntroductionToWebSE.Web.SE.sourcelink.json
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\System.Web.Mvc.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\System.Web.Razor.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\bin\Debug\net8.0\Scrutor.dll
+D:\Temp\EngineerSchool\3\IntroductionToWebSE.Web.SE\obj\Debug\net8.0\Introduc.F4EB7239.Up2Date
